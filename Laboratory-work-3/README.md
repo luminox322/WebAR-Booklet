@@ -71,4 +71,4 @@
 
 ![image](https://github.com/luminox322/WebAR-Booklet/blob/Laboratory-work-3/Laboratory-work-3/2.3.6.jpg)
 
-Рис. 10 - Фрагмент екрану з рішення завдання 2.3.6 "Скопіювати файл .bash_profile до каталогу «Laboratory-work-3» Git-репозиторію"
+Рис. 13 - Фрагмент екрану з рішення завдання 2.3.6 "Скопіювати файл .bash_profile до каталогу «Laboratory-work-3» Git-репозиторію"
