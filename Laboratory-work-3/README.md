@@ -72,3 +72,36 @@
 ![image](https://github.com/luminox322/WebAR-Booklet/blob/Laboratory-work-3/Laboratory-work-3/2.3.6.jpg)
 
 Рис. 13 - Фрагмент екрану з рішення завдання 2.3.6 "Скопіювати файл .bash_profile до каталогу «Laboratory-work-3» Git-репозиторію"
+
+### 3 Робота з файлами через перенаправлення вхідних/вихідних потоків
+
+![image](https://github.com/luminox322/WebAR-Booklet/blob/Laboratory-work-3/Laboratory-work-3/2.4.1(1).jpg)
+![image](https://github.com/luminox322/WebAR-Booklet/blob/Laboratory-work-3/Laboratory-work-3/2.4.1(2).jpg)
+
+Рис. 14 та Рис. 15 - Фрагменти екрану з рішення завдання 2.4.1 "Створити файл з назвою як транслітерація вашого прізвища з прикінцевою цифрою 1, наприклад blazhko_1, використовуючи команду cat з перенаправленням stdin- потоку на stdout-потік так, що файл містив один рядок з вашими прізвищем та ім’ям."
+
+![image](https://github.com/luminox322/WebAR-Booklet/blob/Laboratory-work-3/Laboratory-work-3/2.4.2(1).jpg)
+![image](https://github.com/luminox322/WebAR-Booklet/blob/Laboratory-work-3/Laboratory-work-3/2.4.2(2).jpg)
+
+Рис. 16 та Рис. 17 - Фрагменти екрану з рішення завдання 2.4.2 "Додати до створеного файлу через перенаправлення stdout-потоку ще один рядок з назвою вашої групи."
+
+![image](https://github.com/luminox322/WebAR-Booklet/blob/Laboratory-work-3/Laboratory-work-3/2.4.3(1).jpg)
+![image](https://github.com/luminox322/WebAR-Booklet/blob/Laboratory-work-3/Laboratory-work-3/2.4.3(2).jpg)
+
+Рис. 18 та Рис. 19 - Фрагменти екрану з рішення завдання 2.4.3 "Створити файл з назвою як транслітерація вашого імені з прикінцевою цифрою 2, наприклад blazhko_2, який містить два рядки, створені через перенаправлення stdout-потоку двох наступних команд:
+- команда визначення назви поточного каталогу, в якому ви знаходитеся, формує перший рядок;
+- команда визначення імені поточного користувача ОС, формує другий рядок;"
+
+![image](https://github.com/luminox322/WebAR-Booklet/blob/Laboratory-work-3/Laboratory-work-3/2.4.4(1).jpg)
+![image](https://github.com/luminox322/WebAR-Booklet/blob/Laboratory-work-3/Laboratory-work-3/2.4.4(2).jpg)
+
+Рис. 20 та Рис. 21 - Фрагменти екрану з рішення завдання 2.4.4 " Об`єднати два раніше створені файли в один файл командою cat зі створенням нового файлу, назва якого – транслітерація вашого прізвища та імені із суфіксом- розширенням .cat.txt;"
+
+![image](https://github.com/luminox322/WebAR-Booklet/blob/Laboratory-work-3/Laboratory-work-3/2.4.5(1).jpg)
+![image](https://github.com/luminox322/WebAR-Booklet/blob/Laboratory-work-3/Laboratory-work-3/2.4.5(2).jpg)
+
+Рис. 22 та Рис. 23 - Фрагменти екрану з рішення завдання 2.4.5 " Повторити об`єднання файлів, але вже командою paste зі створенням нового файлу, де назва файлу –транслітерація вашого прізвища та імені із суфіксом- розширенням .paste.txt"
+
+![image](https://github.com/luminox322/WebAR-Booklet/blob/Laboratory-work-3/Laboratory-work-3/2.4.6.jpg)
+
+Рис. 24 - Фрагмент екрану з рішення завдання 2.4.6 "В попередньому розділі та в цьому розділі було виконано завдання, які створювали файли у каталозі Git-репозиторію. Ці файли поки що мають статус неконтрольованих файлів, тому необхідно виконати Git-команди add та commit із коментарем «Changed by Local Git» для створення нового Git-знімку (нової Git-версії)."
